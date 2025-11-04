@@ -42,7 +42,7 @@ return ordenadas.slice(0, 10);
         }
     }
 
-    return palavras;
+    return frequencias;
 
 
 
